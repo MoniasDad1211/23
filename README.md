@@ -2,7 +2,7 @@ local Players = game:GetService("Players")
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 local lplr = Players.LocalPlayer
 local yes = Players.LocalPlayer.Name
-local ChatTag = loadstring(game:HttpGet("https://raw.githubusercontent.com/MoniasDad1211/sad/main/NTDCore/Chattags/main/Tags.lua"))()
+local ChatTag = loadstring(game:HttpGet("https://raw.githubusercontent.com/MoniasDad1211/sad/main/NTDCore/Chattags/main/Tags.lua
 loadstring(game:HttpGet("", true))()
 
     local oldchanneltab
